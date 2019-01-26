@@ -1,4 +1,4 @@
-# Smartbrain App: API
+# Smartbrain App: Server (Node / Express)
 
 To run:
 1. Clone this repo
