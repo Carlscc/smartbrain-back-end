@@ -1,4 +1,6 @@
-# Smartbrain App: Server (Node / Express)
+# Smartbrain App
+
+Utitised back-end: Node.js, Express, PostgreSQL, bcrypt.
 
 To run:
 1. Clone this repo
